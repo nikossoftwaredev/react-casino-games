@@ -1,0 +1,80 @@
+{
+  "count": 3,
+  "data": [
+    {
+      "_id": "630e3f3fa58882c264d034ac",
+      "attempts": 0,
+      "plugin": "litecoin",
+      "totalValue": 210,
+      "userId": "1c4061f8-146d-4191-9bbc-62243dfd950c",
+      "status": "completed",
+      "request": {
+        "twoFactorToken": "165111",
+        "amount": 210,
+        "plugin": "litecoin",
+        "balanceType": "crypto",
+        "fields": {
+          "address": "LX9wk6Pi967DqQz8SujUBtmvkojsdjayCn",
+          "countryCode": "GR"
+        },
+        "requestingIp": "2a02:587:2f15:f800:50f2:d308:9640:3862",
+        "userIp": "2a02:587:2f15:f800:50f2:d308:9640:3862",
+        "totalValue": 210
+      },
+      "createdAt": "2022-08-30T16:47:59.680Z",
+      "updatedAt": "2022-08-30T16:48:20.445Z",
+      "__v": 0,
+      "transactionId": "d97374c6e49fe49f06b1b1a550bcdc19f1405f2578f43dd5c7fdaf61887bce83"
+    },
+    {
+      "_id": "62a4121f2e512d7106009f7c",
+      "attempts": 0,
+      "plugin": "litecoin",
+      "totalValue": 1020,
+      "userId": "1c4061f8-146d-4191-9bbc-62243dfd950c",
+      "status": "completed",
+      "request": {
+        "twoFactorToken": "601168",
+        "amount": 1020,
+        "plugin": "litecoin",
+        "balanceType": "crypto",
+        "fields": {
+          "address": "LX9wk6Pi967DqQz8SujUBtmvkojsdjayCn",
+          "countryCode": "GR"
+        },
+        "requestingIp": "62.103.222.173",
+        "userIp": "62.103.222.173",
+        "totalValue": 1020
+      },
+      "createdAt": "2022-06-11T03:55:11.930Z",
+      "updatedAt": "2022-06-11T03:55:40.499Z",
+      "__v": 0,
+      "transactionId": "21e2e55b1c027e90164e16c45458b9a81fe05361babbf0b5511be07d5010f033"
+    },
+    {
+      "_id": "62a255ee13a873a2145248a5",
+      "attempts": 0,
+      "plugin": "litecoin",
+      "totalValue": 115,
+      "userId": "1c4061f8-146d-4191-9bbc-62243dfd950c",
+      "status": "completed",
+      "request": {
+        "twoFactorToken": "973855",
+        "amount": 115,
+        "plugin": "litecoin",
+        "balanceType": "crypto",
+        "fields": {
+          "address": "LX9wk6Pi967DqQz8SujUBtmvkojsdjayCn",
+          "countryCode": "GR"
+        },
+        "requestingIp": "62.103.222.173",
+        "userIp": "62.103.222.173",
+        "totalValue": 115
+      },
+      "createdAt": "2022-06-09T20:19:58.529Z",
+      "updatedAt": "2022-06-09T20:20:16.876Z",
+      "__v": 0,
+      "transactionId": "ef46a88fe92c0927f312729722a245408b4360f598d1dcb6af8085f0c0807d5c"
+    }
+  ]
+}

@@ -1,10 +1,8 @@
-import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
-import Aviator from "./components/Aviator";
+import BarChart from "./components/BarChart";
 
 const App = () => {
-  return <Aviator />;
+  return <BarChart />;
 };
 
 export default App;
