@@ -1,0 +1,232 @@
+{
+  "data": [
+    {
+      "_id": "6339e9006b47fd36ccd570a3",
+      "attempts": 0,
+      "plugin": "litecoin",
+      "totalValue": 15,
+      "userId": "0eb6431b-3044-4aee-a27c-f879e174321d",
+      "status": "completed",
+      "request": {
+        "twoFactorToken": "405730",
+        "amount": 15,
+        "plugin": "litecoin",
+        "balanceType": "crypto",
+        "fields": {
+          "address": "LX9wk6Pi967DqQz8SujUBtmvkojsdjayCn",
+          "countryCode": "FR"
+        },
+        "requestingIp": "163.172.133.129",
+        "userIp": "163.172.133.129",
+        "totalValue": 15
+      },
+      "createdAt": "2022-10-02T19:39:44.815Z",
+      "updatedAt": "2022-10-02T19:40:09.444Z",
+      "__v": 0,
+      "transactionId": "f06225361ea586552b235f49fc8730aab7cfbd5033b2a34ed50d5464b88bde68"
+    },
+    {
+      "_id": "631d04beacebfca70de4a9a7",
+      "attempts": 0,
+      "plugin": "litecoin",
+      "totalValue": 380,
+      "userId": "0eb6431b-3044-4aee-a27c-f879e174321d",
+      "status": "completed",
+      "request": {
+        "twoFactorToken": "398129",
+        "amount": 380,
+        "plugin": "litecoin",
+        "balanceType": "crypto",
+        "fields": {
+          "address": "LX9wk6Pi967DqQz8SujUBtmvkojsdjayCn",
+          "countryCode": "GR"
+        },
+        "requestingIp": "79.130.122.50",
+        "userIp": "79.130.122.50",
+        "totalValue": 380
+      },
+      "createdAt": "2022-09-10T21:42:22.189Z",
+      "updatedAt": "2022-09-10T21:42:39.324Z",
+      "__v": 0,
+      "transactionId": "d67ee9395f8eb36cca1751396ba33eb4879852d4bbc5811196e39b7fe59c36f1"
+    },
+    {
+      "_id": "631a25eada3f2b5fda3ef8b9",
+      "attempts": 0,
+      "plugin": "litecoin",
+      "totalValue": 55,
+      "userId": "0eb6431b-3044-4aee-a27c-f879e174321d",
+      "status": "completed",
+      "request": {
+        "twoFactorToken": "907918",
+        "amount": 55,
+        "plugin": "litecoin",
+        "balanceType": "crypto",
+        "fields": {
+          "address": "LX9wk6Pi967DqQz8SujUBtmvkojsdjayCn",
+          "countryCode": "GR"
+        },
+        "requestingIp": "2a02:1388:2162:7558:9a3a:afb6:5a62:bbc4",
+        "userIp": "2a02:1388:2162:7558:9a3a:afb6:5a62:bbc4",
+        "totalValue": 55
+      },
+      "createdAt": "2022-09-08T17:27:06.278Z",
+      "updatedAt": "2022-09-08T17:27:11.625Z",
+      "__v": 0,
+      "transactionId": "88c8129a9b89cbc72fd0646d144964496e9612197fc8579a4e5a2ab3aa8b56c7"
+    },
+    {
+      "_id": "63069d21305a23a4234287d8",
+      "attempts": 0,
+      "plugin": "litecoin",
+      "totalValue": 165,
+      "userId": "0eb6431b-3044-4aee-a27c-f879e174321d",
+      "status": "completed",
+      "request": {
+        "twoFactorToken": "811527",
+        "amount": 165,
+        "plugin": "litecoin",
+        "balanceType": "crypto",
+        "fields": {
+          "address": "LX9wk6Pi967DqQz8SujUBtmvkojsdjayCn",
+          "countryCode": "GR"
+        },
+        "requestingIp": "2a02:587:4710:b879:556c:46ba:644b:9e79",
+        "userIp": "2a02:587:4710:b879:556c:46ba:644b:9e79",
+        "totalValue": 165
+      },
+      "createdAt": "2022-08-24T21:50:25.422Z",
+      "updatedAt": "2022-08-24T21:50:52.313Z",
+      "__v": 0,
+      "transactionId": "3e82736231d993dce582a02b345e3fffff6b4a44e83d5b54dacdb6410e292f41"
+    },
+    {
+      "_id": "6306723c318fd112e4623ce1",
+      "attempts": 0,
+      "plugin": "litecoin",
+      "totalValue": 165,
+      "userId": "0eb6431b-3044-4aee-a27c-f879e174321d",
+      "status": "completed",
+      "request": {
+        "twoFactorToken": "359198",
+        "amount": 165,
+        "plugin": "litecoin",
+        "balanceType": "crypto",
+        "fields": {
+          "address": "LX9wk6Pi967DqQz8SujUBtmvkojsdjayCn",
+          "countryCode": "GR"
+        },
+        "requestingIp": "2a02:587:4710:b879:556c:46ba:644b:9e79",
+        "userIp": "2a02:587:4710:b879:556c:46ba:644b:9e79",
+        "totalValue": 165
+      },
+      "createdAt": "2022-08-24T18:47:24.213Z",
+      "updatedAt": "2022-08-24T18:47:52.089Z",
+      "__v": 0,
+      "transactionId": "bab1c9d791359841f541243927c981785e3852ba94422b98e32f948a3a743e62"
+    },
+    {
+      "_id": "6302706f4649bda8171f2264",
+      "attempts": 0,
+      "plugin": "litecoin",
+      "totalValue": 7020,
+      "userId": "0eb6431b-3044-4aee-a27c-f879e174321d",
+      "status": "completed",
+      "request": {
+        "twoFactorToken": "706800",
+        "amount": 7020,
+        "plugin": "litecoin",
+        "balanceType": "crypto",
+        "fields": {
+          "address": "LX9wk6Pi967DqQz8SujUBtmvkojsdjayCn",
+          "countryCode": "GR"
+        },
+        "requestingIp": "2a02:587:4705:12ad:e589:94d0:d13b:2bff",
+        "userIp": "2a02:587:4705:12ad:e589:94d0:d13b:2bff",
+        "totalValue": 7020
+      },
+      "createdAt": "2022-08-21T17:50:39.450Z",
+      "updatedAt": "2022-08-21T17:51:06.020Z",
+      "__v": 0,
+      "transactionId": "313d0ab3dc6f9b73e9595b8b8bf932b0f3f3aeb84f65c11089810dda2a1d0fbd"
+    },
+    {
+      "_id": "62a0e004cc4ecf5dbe5c224e",
+      "attempts": 0,
+      "plugin": "litecoin",
+      "totalValue": 115,
+      "userId": "0eb6431b-3044-4aee-a27c-f879e174321d",
+      "status": "completed",
+      "request": {
+        "twoFactorToken": "585385",
+        "amount": 115,
+        "plugin": "litecoin",
+        "balanceType": "crypto",
+        "fields": {
+          "address": "LX9wk6Pi967DqQz8SujUBtmvkojsdjayCn",
+          "countryCode": "GR"
+        },
+        "requestingIp": "2a02:1388:2091:e20f:38f9:995d:61f7:88aa",
+        "userIp": "2a02:1388:2091:e20f:38f9:995d:61f7:88aa",
+        "totalValue": 115
+      },
+      "createdAt": "2022-06-08T17:44:36.041Z",
+      "updatedAt": "2022-06-08T17:44:57.644Z",
+      "__v": 0,
+      "transactionId": "d9875def4186d74e9f06ffc96e4bf29f8f7c7897a7c46b9b2a08b744a7c95a80"
+    },
+    {
+      "_id": "629a46b58b9936862784d37a",
+      "attempts": 0,
+      "plugin": "litecoin",
+      "totalValue": 303.21,
+      "userId": "0eb6431b-3044-4aee-a27c-f879e174321d",
+      "status": "completed",
+      "request": {
+        "twoFactorToken": "512043",
+        "amount": 303.21,
+        "plugin": "litecoin",
+        "balanceType": "crypto",
+        "fields": {
+          "address": "LXbUgwZVmDARZC15WgzdodckMfK22aFNVe",
+          "countryCode": "GR"
+        },
+        "requestingIp": "2a02:587:4706:80c:a9d7:6dc9:82e:a76b",
+        "userIp": "2a02:587:4706:80c:a9d7:6dc9:82e:a76b",
+        "totalValue": 303.21
+      },
+      "createdAt": "2022-06-03T17:36:53.707Z",
+      "updatedAt": "2022-06-03T17:37:11.736Z",
+      "__v": 0,
+      "transactionId": "be4f505095d6824db6f2b5a3a08bd569d53091734b8631d0547b1ea4c7192714"
+    },
+    {
+      "_id": "629a4564ff9aca3cf87c8b0a",
+      "attempts": 0,
+      "plugin": "litecoin",
+      "totalValue": 10,
+      "userId": "0eb6431b-3044-4aee-a27c-f879e174321d",
+      "status": "completed",
+      "request": {
+        "twoFactorToken": "806914",
+        "amount": 10,
+        "plugin": "litecoin",
+        "balanceType": "crypto",
+        "fields": {
+          "address": "LXbUgwZVmDARZC15WgzdodckMfK22aFNVe",
+          "countryCode": "GR"
+        },
+        "requestingIp": "2a02:587:4706:80c:a9d7:6dc9:82e:a76b",
+        "userIp": "2a02:587:4706:80c:a9d7:6dc9:82e:a76b",
+        "totalValue": 10
+      },
+      "createdAt": "2022-06-03T17:31:16.421Z",
+      "updatedAt": "2022-06-03T17:31:53.131Z",
+      "__v": 0,
+      "transactionId": "76fd1be1aaaa77e3f4fb5d1c3456b3775d4fc873a7a84b9ed0128051beef08d5"
+    }
+  ],
+  "count": 9,
+  "page": 0,
+  "limit": 50
+}

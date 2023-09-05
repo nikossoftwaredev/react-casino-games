@@ -1,6 +1,6 @@
 import bets from "../data/bets.json";
-import deposits from "../data/deposits.json";
-import withdrawals from "../data/withdrawals.json";
+import deposits from "../data/dep-warian.json";
+import withdrawals from "../data/withdrawals-warian.json";
 
 export const depositAmount = deposits.data.reduce((acc, deposit) => {
   return acc + deposit.amount;
